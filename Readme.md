@@ -4,4 +4,4 @@
 	* pip install PILLOW
 	* pip install numpy
 	* pip install sqlite3
-	* sql database for import sql
+	* sqlite database for import sql
